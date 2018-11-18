@@ -25,8 +25,8 @@ a:hover {
 #cover {
   width: 100%;
   max-width: 300px;
-  background: #0D81B6;
-  color: #FFF;
+  background: #EFEFEF;
+  color: #333;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -34,7 +34,7 @@ a:hover {
 }
 
 #hero {
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  
 }
 
 #profile {
